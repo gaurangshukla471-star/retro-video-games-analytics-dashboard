@@ -33,7 +33,7 @@ An interactive Power BI dashboard analyzing retro video game sales, genres, plat
 
 ## 🛠️ Tools Used
 
-- Microsoft Power BI
+- Microsoft PowerBI
 - Power Query
 - DAX
 - GitHub
@@ -42,7 +42,7 @@ An interactive Power BI dashboard analyzing retro video game sales, genres, plat
 
 ## 📂 Files
 
-- `retrogamesproject.pbix` – Power BI project file
+- `retrogamesproject.pbix` – PowerBI project file
 - `images/` – Dashboard screenshots
 - `README.md` – Project documentation
 
@@ -50,10 +50,10 @@ An interactive Power BI dashboard analyzing retro video game sales, genres, plat
 
 ## 📈 Key Insights
 
-- PlayStation 2 generated the highest global sales among the top consoles.
-- North America contributed the largest share of sales for most platforms.
+- PlayStation 2 (Ps2) generated the highest global sales among the top consoles.
+- North America (NA) contributed the largest share of sales for most platforms.
 - Action and Sports games dominate the retro gaming market.
-- Sales peaked during the early-to-mid 2000s before gradually declining.
+- Sales peaked during the early-to-mid 2000s before gradually declining (for Ps2).
 
 ---
 
